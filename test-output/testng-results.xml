@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-22T23:27:43 ART" name="Default suite" finished-at="2023-04-22T23:27:55 ART" duration-ms="12723">
+    <groups>
+    </groups>
+    <test started-at="2023-04-22T23:27:43 ART" name="Default test" finished-at="2023-04-22T23:27:55 ART" duration-ms="12723">
+      <class name="Test.Tests">
+        <test-method is-config="true" signature="goTo()[pri:0, instance:Test.Tests@25641d39]" started-at="2023-04-22T23:27:28 ART" name="goTo" finished-at="2023-04-22T23:27:43 ART" duration-ms="14966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goTo -->
+        <test-method signature="starting()[pri:0, instance:Test.Tests@25641d39]" started-at="2023-04-22T23:27:43 ART" name="starting" finished-at="2023-04-22T23:27:55 ART" duration-ms="12628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starting -->
+        <test-method is-config="true" signature="cerrarPagina()[pri:0, instance:Test.Tests@25641d39]" started-at="2023-04-22T23:27:55 ART" name="cerrarPagina" finished-at="2023-04-22T23:27:56 ART" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarPagina -->
+      </class> <!-- Test.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
